@@ -12,7 +12,4 @@ In a world where 90% of CTF players secretly Google "hex to ASCII" at 2 AM, we d
 - **Crypto Vault**: Encrypt, decrypt, and occasionally question your life choices.  
 - **Forensic Lens**: Find what wasn’t meant to be found.  
 
-## Quickstart  
-1. Clone this repo like you’re stealing the Declaration of Independence.  
-   ```bash  
-   git clone https://github.com/yourusername/CyberToolbox.git  
+
