@@ -1,4 +1,3 @@
-# CyberToolbox  
 *Where Bits Meet Brains*  
 
 A clandestine collection of digital lockpicks for the modern cyber-nomad.  
